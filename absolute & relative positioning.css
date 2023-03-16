@@ -7,7 +7,7 @@ body{
 h1{
 	position: relative;
 	bottom: 290px;
-	left: 255px;
+	left: 500px;
 }
 
 h2{
@@ -18,24 +18,27 @@ h2{
 
 h3{
 	position:absolute;
-	bottom: -50px;
+	top: 50px;
+	right: 400px;
 }
 
 
 h4{
 	position:relative;
-	right: -256px;
+	left: 700px;
+	bottom: 400px;
 	
 }
 
 h5{
 	position: absolute;
-	left: 200px;
+	top: 450px;
 }
 
 h6{
 	position: absolute;
-	left:
+	top: 40px;
+	left: 265px;
 }
 
 
